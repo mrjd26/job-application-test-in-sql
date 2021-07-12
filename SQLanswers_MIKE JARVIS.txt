@@ -1,0 +1,4 @@
+
+bike_number  time_diff                 end_time              start_time
+
+W00978       2 mons 13 days 06:39:00   2012-01-18 07:26:00   2012-03-31 14:05:00
